@@ -30,3 +30,12 @@ yrx_firstproject\xunji.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.
 yrx_firstproject\xunji.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim.h
 yrx_firstproject\xunji.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim_ex.h
 yrx_firstproject\xunji.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h
+yrx_firstproject\xunji.o: ../User/Inc/Track.h
+yrx_firstproject\xunji.o: ../User/Inc/bsp_uart.h
+yrx_firstproject\xunji.o: C:\Users\21459\Desktop\STM32\core\ARM\ARMCC\Bin\..\include\stdio.h
+yrx_firstproject\xunji.o: C:\Users\21459\Desktop\STM32\core\ARM\ARMCC\Bin\..\include\string.h
+yrx_firstproject\xunji.o: ../Core/Inc/usart.h
+yrx_firstproject\xunji.o: ../User/Inc/car.h
+yrx_firstproject\xunji.o: ../Core/Inc/tim.h
+yrx_firstproject\xunji.o: ../Core/Inc/gpio.h
+yrx_firstproject\xunji.o: ../User/Inc/moto.h

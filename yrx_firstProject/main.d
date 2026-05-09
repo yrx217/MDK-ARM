@@ -42,3 +42,4 @@ yrx_firstproject\main.o: ../User/Inc/moto.h
 yrx_firstproject\main.o: ../User/Inc/mpu6050.h
 yrx_firstproject\main.o: C:\Users\21459\Desktop\STM32\core\ARM\ARMCC\Bin\..\include\math.h
 yrx_firstproject\main.o: ../User/Inc/Track.h
+yrx_firstproject\main.o: ../User/Inc/xunji.h

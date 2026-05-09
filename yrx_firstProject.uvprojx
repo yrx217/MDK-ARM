@@ -819,16 +819,6 @@
               <FileType>5</FileType>
               <FilePath>..\User\Inc\xunji.h</FilePath>
             </File>
-            <File>
-              <FileName>kongzhi.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\User\Src\kongzhi.c</FilePath>
-            </File>
-            <File>
-              <FileName>kongzhi.h</FileName>
-              <FileType>5</FileType>
-              <FilePath>..\User\Inc\kongzhi.h</FilePath>
-            </File>
           </Files>
         </Group>
         <Group>
